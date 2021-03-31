@@ -1,2 +1,4 @@
 # data-visualizer
-Very very simple visualizer for data flow
+
+Small prototype.
+Simple javascript (dataVisualizer.js) for visualizing data flow.
